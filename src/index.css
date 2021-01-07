@@ -1,0 +1,155 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:wght@300&display=swap");
+
+*
+ {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+.navbar-brand img {
+  width: 70%;
+  height: 60%;
+}
+.navbar {
+  background: #466368;
+  background: linear-gradient(#648880, #293f50);
+
+}
+.navbar a {
+  font-size: 1.0rem;
+  color: white!important;
+
+}
+.nav-item a:hover{
+
+	cursor:pointer;
+	display: inline-block;
+    background-color: #009688;
+}
+.menu_active {
+  font-weight: bold;
+  
+}
+.first-item h2 {
+  margin-top: 8%;
+  font-weight: bold;
+  color: #466368;
+  font-size: 2.9rem;
+
+
+}
+.first-item h3 {
+
+  font-weight: bold;
+
+}
+.button {
+  background: #466368;
+  background: linear-gradient(#648880, #293f50);
+  border: none;
+  color: white;
+  padding: 12px 60px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 2px 1px;
+  cursor: pointer;
+}
+.button2 {
+  background: white;
+  border: none;
+  color:#466368;;
+  padding: 12px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 2px 1px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.second-item{
+  margin-top: 1%;
+  font-weight: bold;
+}
+.second-item h3 img{
+  width: 3%;
+  height: 50%;
+
+}
+.text-item{
+  margin-top: 3%;
+  font-weight: bold;
+}
+.text-item p h4{
+  font-weight: bold;
+}
+.profile-item h1{
+  font-size: 1.8rem;
+  font-weight: bold;
+
+}
+.profile-item h1 img{
+  width: 3%;
+  height: 50%;
+
+}
+
+.profile-item h6{
+  color:#466368;
+  font-weight: bold;
+
+}
+.card-title{
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+
+.button3 {
+  background: #466368;
+  background: linear-gradient(#648880, #293f50);
+  border: none;
+  color: white;
+  padding: 12px 60px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 2px 1px;
+  
+}
+.card-header span{
+  color:#009688;
+  font-weight: bold;
+}
+.card-header p h6 {
+  font-size: 0.7rem;
+}
+.card-header img{
+  width: 8%;
+  height: 12%!important;
+}
+
+.pro-img h1 img{
+  width: 2%;
+  height: 2%!important;
+
+}
+.name h1{
+  flex-direction: row!important;
+}
+.progress-bar {
+  width: 100%;
+}
+
+
+
+
+
+
+
+
